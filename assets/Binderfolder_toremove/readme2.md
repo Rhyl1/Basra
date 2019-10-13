@@ -1,6 +1,4 @@
-# Basra Coffeeshop Customer page
-
-Basra is a lively coffeshop, located centrally in the city of The Hague, The Netherlands.
+# Your Project's Name
 
 One or two paragraphs providing an overview of your project.
 
@@ -36,14 +34,6 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-
-This project uses:
-links to Bootstrap CDN - for the grid
-FontAwesome - for icons
-Google Fonts - for custom fonts
-Links to Hover.css CDN - foor cool hover effects and transitions
-
-
 
 
 ## Testing
