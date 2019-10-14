@@ -85,6 +85,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Media
 - The photos used in this site were obtained from ...
+The .png file for the ul used for the mobile houserule section is from: https://dlpng.com/png/5956129
 
 ### Acknowledgements
 
