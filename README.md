@@ -1,10 +1,14 @@
 # Basra Coffeeshop Customer page
 
-Basra is a lively coffeshop, located centrally in the city of The Hague, The Netherlands.
+Basra is a lively coffeeshop, located centrally in the city of The Hague, The Netherlands.
+For 30 years, it has provided quality products for its customers.
+The business has a current website, but needs a new one,
+since reopening after an extensive make-over.
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+I have used this project to provide this service:
+a relevant make-over of their current, out-dated,(in technique as well as styling) website.
+The primary goal will be providing the customer location and opening data at a first glance
+and promote a sensible use of their products, within the allowed legal scope.
 
 ## UX
 

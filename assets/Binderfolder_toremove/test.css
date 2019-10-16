@@ -1,6 +1,6 @@
-body {
+/* body {
     margin: 30px;
-}
+} */
 
 .my-container {
     border: 1px solid green;
@@ -23,3 +23,15 @@ body {
 .footer-links {
     text-align: right;
 }
+
+.max-width-100-height-auto {
+    max-width: 100%;
+    height: auto;
+}
+
+/* .footer-position {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+} */

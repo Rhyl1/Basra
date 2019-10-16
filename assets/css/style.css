@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text:300,400,700|Montserrat:300,400,700&display=swap');
 /* ---------------------------------------------------Colours */
 /* ---------------------------------------------------Special paddings/margins/text */
 h1,h2,h3,h4 {
@@ -6,21 +7,51 @@ h1,h2,h3,h4 {
 .uppercase {
     text-transform: uppercase;
 }
-/* ---------------------------------------------------Heading */
-header {
-    margin: 0;
-}
 .heading {
     margin-left: 50px;
 }
-/* ---------------------------------------------------Navbar */
+/* ---------------------------------------------------Header */
+ header {
+    margin: 0;
+}
 
+.achtergrond-container {
+    height: 100vh;
+
+background: url(/assets/img/bg_lint.jpg) no-repeat top left fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-header {
+    color: #FEFBF1;
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-family: 'Big Shoulders Text', cursive;
+    letter-spacing: 0.3rem;
+}
+.jumbotron-18jaar {
+    color: #FEFBF1;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 0.6em;
+}
+
+/* ---------------------------------------------------Navbar */
 
 .navbar {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0,0,0,0.25)
+    background-color: rgba(0,0,0,0.25);
+    font-family: 'Big Shoulders Text', cursive;
+    z-index: 1;
 }
 
 
@@ -29,29 +60,83 @@ header {
 }
 
 .navbar-brand {
-    /* font-family: Arial, Helvetica, sans-serif; */
     font-weight: bold;
-    /* color: black;
-    z-index: 1; */
+    z-index: 1;
+}
+
+.navbar-dark .navbar-brand {
+    color: #FEFBF1
 }
 
 .navbar .navbar-nav a {
     font-weight: bold;
 }
 
-/* ---------------------------------------------------Openingstijden */
+/* ---------------------------------------------------Openingstijden en Route*/
 .lijst-openingstijden {""}
 .adres{}
+
+.openingstijden {
+    font-family: 'Montserrat', sans-serif;
+    color: #FEFBF1;
+}
+.openingstijden p,h4 {
+    text-align: center;
+    background-color: rgba(0,0,0,0.25);
+}
+.openingstijden p span {
+    display: block;
+}
+
+.route {
+    font-family: 'Montserrat', sans-serif;
+    color: #FEFBF1;
+    background-color: rgba(0,0,0,0.25);
+}
+.route p span {
+    display: block;
+    text-align: center;
+}
 /* ---------------------------------------------------Huisregels */
 
-/* ---------------------------------------------------Footer */
-/* ---------------------------------------------------Footer */
-/* ---------------------------------------------------Footer */
+/* ---------------------------------------------------Afbeeldingen */
+
+
+/* ---------------------------------------------------block-deviders */
+.block-devider {
+        width: 75px;
+        height: 5px;
+        color: white;
+        background-color: #298BAA;
+}
+/* ---------------------------------------------------Knoppen */
+.btn--blauw {
+    color: #FEFBF1;
+    background-color: #298BAA;
+    border-color: #298BAA;
+}
+.btn--cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 160px;
+}
+
+.btn--blauw:hover,
+.btn--blauw:active,
+.btn--blauw:focus,
+.btn--blauw:active:focus {
+    background-color: #12627b;
+    border-color: #12627b;
+}
+
+.btn:hover {
+    color: #FEFBF1;}
 /* ---------------------------------------------------Footer */
 
 .footer-links {
     text-align: right;
 }
+
 #footer-details {
     background-color: #000000;
 }
