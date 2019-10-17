@@ -20,7 +20,7 @@ h1,h2,h3,h4 {
 .achtergrond-container {
     height: 100vh;
 
-background: url("/assets/img/bg_lint.jpg") no-repeat top left fixed;
+background: url("../img/bg_lint.jpg") no-repeat top left fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -116,7 +116,7 @@ background: url("/assets/img/bg_lint.jpg") no-repeat top left fixed;
     margin-top: 75px;
     padding-top: 75px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .huisregels-text ul {
@@ -204,3 +204,5 @@ background: url("/assets/img/bg_lint.jpg") no-repeat top left fixed;
 .links-groep {
     text-align: right;
 }
+
+/* ----------------------------------------Hover CSS effects------------------- */
