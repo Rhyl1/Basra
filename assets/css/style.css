@@ -18,7 +18,7 @@ h1,h2,h3,h4 {
 .achtergrond-container {
     height: 100vh;
 
-background: url(/assets/img/bg_lint.jpg) no-repeat top left fixed;
+background: url("/assets/img/bg_lint.jpg") no-repeat top left fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
