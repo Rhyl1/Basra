@@ -23,7 +23,7 @@ responsively displayed in one row.
 <![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)>
 
 The following colorscheme was used throughout the site:
-![alt](https://https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/colorschema.png)
+<![alt](https://https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/colorschema.png)>
 
 ## Features
 
