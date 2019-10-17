@@ -11,17 +11,25 @@ The primary goal will be providing the customer location and opening data at a f
 and promote a sensible use of their products, within the allowed legal scope.
 
 ## UX
+Balsamiq was used for the initial wireframe setup.
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Link to wireframes:
+https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvALJEgBaZA0lANoC6AvkA%3D
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+The plans are executed, but differ in the small layout because of practical issues. While designing the initial idea,
+to have stacked sliders for the content was not responsive enough. Instead, the information was absorbed in the grid to be
+responsively displayed in one row.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+<![alt](https://link)>
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+- Home
+These pages display general info about location, opening times and contact info. On larger screens,
+it also displays a jumbotron with a message, emphasising a record of 30 years existence.
+
+- Huisregels
+This section is ended to sum up the houseruls, as they apply for visitors of the coffeeshop.
 
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -32,22 +40,20 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Another feature idea is a (Voorlichting / Information) section. This section will show information
+about how to resonsibly use the products sold at the coffeeshop.
+
+I would also like to add a (vacature/vacancy) section, where people can apply for jobs or the owner
+can post a vacancy when needed.
 
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
 
 This project uses:
 links to Bootstrap CDN - for the grid
 FontAwesome - for icons
 Google Fonts - for custom fonts
 Links to Hover.css CDN - foor cool hover effects and transitions
-
-
+Links and iframe to Google maps for location details.
 
 
 ## Testing
@@ -88,9 +94,10 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
-The .png file for the ul used for the mobile houserule section is from: https://dlpng.com/png/5956129
+- The photos used in this site were obtained from pixabay.com and sliderphoto's where
+provided by a customer (o.o.hooi)
+- The .png file for the ul used for the houserule section is from: https://dlpng.com/png/5956129
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from the Whiskey drop tutorial.
