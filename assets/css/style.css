@@ -8,7 +8,9 @@ h1,h2,h3,h4 {
     text-transform: uppercase;
 }
 .heading {
-    margin-left: 50px;
+    font-family: 'Big Shoulders Text', cursive;
+    font-weight: 700;
+    letter-spacing: 0.3rem;
 }
 /* ---------------------------------------------------Header */
  header {
@@ -107,6 +109,19 @@ background: url("/assets/img/bg_lint.jpg") no-repeat top left fixed;
     text-align: center;
 }
 /* ---------------------------------------------------Huisregels */
+.huisregels-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #FEFBF1;
+    background-color: rgba(0,0,0,0.25);
+    margin-top: 75px;
+    padding-top: 75px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.huisregels-text ul {
+    list-style: none;
+}
 
 /* ---------------------------------------------------Afbeeldingen */
 
@@ -117,6 +132,13 @@ background: url("/assets/img/bg_lint.jpg") no-repeat top left fixed;
         height: 5px;
         color: white;
         background-color: #298BAA;
+}
+
+.block-devider-aubergine {
+        width: 75px;
+        height: 5px;
+        color: white;
+        background-color: #573E51;
 }
 /* ---------------------------------------------------Knoppen */
 .btn--blauw {
