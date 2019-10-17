@@ -20,7 +20,10 @@ The plans are executed, but differ in the small layout because of practical issu
 to have stacked sliders for the content was not responsive enough. Instead, the information was absorbed in the grid to be
 responsively displayed in one row.
 
-<![alt](https://link)>
+<![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)>
+
+The following colorscheme was used throughout the site:
+![alt](https://https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/colorschema.png)
 
 ## Features
 
