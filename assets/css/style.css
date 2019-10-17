@@ -79,10 +79,12 @@ background: url(/assets/img/bg_lint.jpg) no-repeat top left fixed;
 .openingstijden {
     font-family: 'Montserrat', sans-serif;
     color: #FEFBF1;
+    background-color: rgba(0,0,0,0.25);
+    padding-top: 75px;
 }
 .openingstijden p,h4 {
     text-align: center;
-    background-color: rgba(0,0,0,0.25);
+
 }
 .openingstijden p span {
     display: block;
@@ -92,6 +94,13 @@ background: url(/assets/img/bg_lint.jpg) no-repeat top left fixed;
     font-family: 'Montserrat', sans-serif;
     color: #FEFBF1;
     background-color: rgba(0,0,0,0.25);
+    padding-top: 75px;
+}
+
+. route i {
+    margin-bottom: 20px;
+    font-size: 45px;
+    line-height: 45px;
 }
 .route p span {
     display: block;
@@ -138,5 +147,11 @@ background: url(/assets/img/bg_lint.jpg) no-repeat top left fixed;
 }
 
 #footer-details {
-    background-color: #000000;
+    background-color: transparent;
+    color: #FEFBF1;
+    font-family: 'Montserrat', sans-serif;
+}
+#footer-details details{
+    font-weight: 300;
+    font-size: 0.6em;
 }
