@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text:300,400,700|Montserrat:300,400,700&display=swap');
+
+html,body { height: 100vh;  margin: 0; }
+
+body {
+  display: table;
+  width: 100vw;
+}
 /* ---------------------------------------------------Colours */
 /* ---------------------------------------------------Special paddings/margins/text */
 h1,h2,h3,h4 {
@@ -163,6 +170,10 @@ background: url("../img/bg_lint.jpg") no-repeat top left fixed;
 .btn:hover {
     color: #FEFBF1;}
 /* ---------------------------------------------------Footer */
+footer {
+   display: table-row;
+   max-height: 50px;
+}
 
 .footer-links {
     text-align: right;
