@@ -274,4 +274,64 @@ position: fixed;
     text-align: right;
 }
 
-/* ----------------------------------------Hover CSS effects------------------- */
+/* ----------------------------------------Vacatures------------------- */
+
+.opvulling {
+        background-color: rgba(242,203,155,1);
+}
+.achtergrond-container-vacatures {
+    height: 100vh;
+    background: url("../img/cannabis-rondje.png") no-repeat top left fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.vacatures-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #FEFBF1;
+    background-color: rgba(0,0,0,0.50);
+    margin-top: 50px;
+    margin-bottom: 75px;
+    padding-top: 3px;
+    padding-bottom: 75px;
+    font-size: 0.7rem;
+}
+
+@media (min-width: 375px) {
+.vacatures-text {
+    margin-top: 90px;
+    font-size: 0.8rem;
+}
+}
+
+@media (min-width: 768px) {
+.vacatures-text {
+    margin-top: 250px;
+    font-size: 1rem;
+}
+}
+
+@media (min-width: 992px) {
+.vacatures-text {
+    margin-top: 0;
+    font-size: 1.3rem;
+}
+}
+.vacatures-text ul {
+    list-style:;
+    margin: 0;
+    padding: 0;
+}
+
+.heading-vacatures {
+    font-family: 'Big Shoulders Text', cursive;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.vacatures-formulier {
+
+}
