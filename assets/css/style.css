@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text:300,400,700|Montserrat:300,400,700&display=swap');
 
-html,body { height: 100vh;  margin: 0; }
+/* html,body { height: 100vh;  margin: 0; } */
 
-body {
+/* body {
   display: table;
   width: 100vw;
-}
+} */
 /* ---------------------------------------------------Colours */
 /* ---------------------------------------------------Special paddings/margins/text */
 h1,h2,h3,h4 {
@@ -26,8 +26,7 @@ h1,h2,h3,h4 {
 
 .achtergrond-container {
     height: 100vh;
-
-background: url("../img/bg_lint.jpg") no-repeat top left fixed;
+    background: url("../img/bg_lint.jpg") no-repeat top left fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -44,12 +43,14 @@ background: url("../img/bg_lint.jpg") no-repeat top left fixed;
     margin-bottom: 30px;
     font-family: 'Big Shoulders Text', cursive;
     letter-spacing: 0.3rem;
+    background-color: rgba(0,0,0,0.25);
 }
 .jumbotron-18jaar {
     color: #FEFBF1;
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     font-size: 0.6em;
+    background-color: rgba(0,0,0,0.25);
 }
 
 /* ---------------------------------------------------Navbar */
@@ -90,6 +91,7 @@ background: url("../img/bg_lint.jpg") no-repeat top left fixed;
     color: #FEFBF1;
     background-color: rgba(0,0,0,0.25);
     padding-top: 75px;
+    padding-bottom: 75px;
 }
 .openingstijden p,h4 {
     text-align: center;
@@ -104,6 +106,7 @@ background: url("../img/bg_lint.jpg") no-repeat top left fixed;
     color: #FEFBF1;
     background-color: rgba(0,0,0,0.25);
     padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 . route i {
@@ -119,19 +122,42 @@ background: url("../img/bg_lint.jpg") no-repeat top left fixed;
 .huisregels-text {
     font-family: 'Montserrat', sans-serif;
     color: #FEFBF1;
-    background-color: rgba(0,0,0,0.25);
-    margin-top: 75px;
-    padding-top: 75px;
+    background-color: rgba(0,0,0,0.50);
+    margin-top: 50px;
+    margin-bottom: 75px;
+    padding-top: 3px;
+    padding-bottom: 75px;
     text-align: center;
-    font-size: 1rem;
+    font-size: 0.7rem;
 }
 
+@media (min-width: 375px) {
+.huisregels-text {
+    margin-top: 90px;
+    font-size: 0.8rem;
+}
+}
+
+@media (min-width: 768px) {
+.huisregels-text {
+    margin-top: 250px;
+    font-size: 1rem;
+}
+}
+
+@media (min-width: 992px) {
+.huisregels-text {
+    margin-top: 150px;
+    font-size: 1.3rem;
+}
+}
 .huisregels-text ul {
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 /* ---------------------------------------------------Afbeeldingen */
-
 
 /* ---------------------------------------------------block-deviders */
 .block-devider {
@@ -170,9 +196,13 @@ background: url("../img/bg_lint.jpg") no-repeat top left fixed;
 .btn:hover {
     color: #FEFBF1;}
 /* ---------------------------------------------------Footer */
-footer {
-   display: table-row;
-   max-height: 50px;
+.fixed-bottom {
+
+position: fixed;
+    right: 0;
+    bottom: 10px;
+    left: 0;
+    z-index: 3;
 }
 
 .footer-links {
@@ -187,10 +217,6 @@ footer {
 #footer-details details{
     font-weight: 300;
     font-size: 0.6em;
-}
-
-.social-links {
-    padding-bottom: 15px;
 }
 
 .social-links li a i {

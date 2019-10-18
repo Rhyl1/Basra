@@ -26,6 +26,8 @@ The following colorscheme was used throughout the site:
 
 The following font-families where used troughout the website: 'Montserrat', sans-serif; & 'Big Shoulders Text', cursive;
 
+Link to live site: ....
+
 ### users
 The users of the website include consumers, looking for a local coffeeshop. It is expected that these consumer will find
 the webpage after initially "Googeling" for results. On request of the owner en because of legal restrictions
