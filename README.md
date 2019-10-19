@@ -9,7 +9,6 @@ Because of the legal restrictions regarding the promotion of cannabis products, 
 
 ## UX
 Balsamiq was used for the initial wireframe setup.
-
 Link to wireframes:
 https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvALJEgBaZA0lANoC6AvkA%3D
 
@@ -83,6 +82,6 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDYxMjc0MiwxODI5NDUxMjIxLC0xNz
+eyJoaXN0b3J5IjpbMTEyMzgxNzg4MCwxODI5NDUxMjIxLC0xNz
 I3NjkxNjEyLC0xMDgxMjM2OTI4XX0=
 -->
