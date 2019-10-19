@@ -32,7 +32,7 @@ the information provided will be general: this is also what the consumer expects
 ## Features
 ### Existing Features
 - Navigation bar.
--- The navigation bar has a  
+-- The navigation bar has a indication to the page visitied in the site (the active page is displayed in a white font color) and is translated for diffrent language users. 
 - Route button - allows users to plot a route via Google maps.
 - Social links in footer - provide additional contact details if needed.
 - Home page
@@ -83,7 +83,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3OTgwNzU4LDk2MTIyMTcwMCw5MDA2NT
-AzNDQsMTEyMzgxNzg4MCwxODI5NDUxMjIxLC0xNzI3NjkxNjEy
-LC0xMDgxMjM2OTI4XX0=
+eyJoaXN0b3J5IjpbMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNj
+UwMzQ0LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYx
+MiwtMTA4MTIzNjkyOF19
 -->
