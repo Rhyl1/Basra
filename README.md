@@ -75,6 +75,7 @@ This project uses:
 - After this, Am I responsive was used to test responsiveness.
 
 ## Deployment
+- The pages where deployed by activating the e
 
 ## Credits
 
@@ -89,8 +90,8 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQwMTY1ODEsNzk5OTA4MzQ0LC0yMD
-AyOTMzNTEyLDEyNjEzODc0NjgsOTYxMjIxNzAwLDkwMDY1MDM0
-NCwxMTIzODE3ODgwLDE4Mjk0NTEyMjEsLTE3Mjc2OTE2MTIsLT
-EwODEyMzY5MjhdfQ==
+eyJoaXN0b3J5IjpbMTk3MzYwNTIwOSw3OTk5MDgzNDQsLTIwMD
+I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
+LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
+A4MTIzNjkyOF19
 -->
