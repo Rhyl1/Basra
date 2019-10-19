@@ -54,9 +54,9 @@ about how to responsibly use the products sold at the coffee shop.
 ## Technologies Used
 
 This project uses:
-HTML - for structure
-CSS - for styling
-Google Chrome - for browser and dev tools
+- HTML - for structure
+- CSS - for styling
+- Google Chrome - for browser use and the use of developement tools
 Google - was used for research
 links to Bootstrap CDN - for the grid and JavaScript functions
 Links to the FontAwesome CDN- for icons
@@ -85,8 +85,8 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcxMTIyODQsLTIwMDI5MzM1MTIsMT
-I2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0LDExMjM4MTc4
-ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMTA4MTIzNjkyOF
-19
+eyJoaXN0b3J5IjpbNzk5OTA4MzQ0LC0yMDAyOTMzNTEyLDEyNj
+EzODc0NjgsOTYxMjIxNzAwLDkwMDY1MDM0NCwxMTIzODE3ODgw
+LDE4Mjk0NTEyMjEsLTE3Mjc2OTE2MTIsLTEwODEyMzY5MjhdfQ
+==
 -->
