@@ -1,14 +1,11 @@
 # The Basra Coffeeshop page
 
-Basra is a lively coffeeshop, located centrally in the city of The Hague, The Netherlands.
-For 30 years, it has provided quality products for its customers.
-The business has a current website, but needs a new one,
-since reopening after an extensive make-over.
 
-I have used this project to provide this service:
-a relevant make-over of their current, out-dated,(in technique as well as styling) website.
-The primary goal will be providing the customer location and opening data at a first glance
-and promote a sensible use of their products, within the allowed legal scope.
+Basra is a lively coffeeshop, located centrally in the city of The Hague, The Netherlands.
+For 30 years, it has provided quality cannabis products for its customers.
+The business currently has an outdated website, so it needs a new one.
+
+Because of the legal restrictions regarding the promotion of cannabis products, the primary goal of the website will be providing the customer location and opening data at a first glance.
 
 ## UX
 Balsamiq was used for the initial wireframe setup.
@@ -86,6 +83,6 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
-A4MTIzNjkyOF19
+eyJoaXN0b3J5IjpbMTYzNDYxMjc0MiwxODI5NDUxMjIxLC0xNz
+I3NjkxNjEyLC0xMDgxMjM2OTI4XX0=
 -->
