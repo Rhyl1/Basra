@@ -24,7 +24,7 @@ Instead, the information for the mobile view was "absorbed" in the grid to be re
 
 - Link to live site: ....
 
-### users
+### Users
 The users of the website include consumers, looking for a local coffeeshop. It is expected that these consumer will find
 the webpage after initially "Googeling" for results. On request of the owner en because of legal restrictions
 the information provided will be general: this is also what the consumer expects.
@@ -82,7 +82,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzkzMTk4MCw5MDA2NTAzNDQsMTEyMz
+eyJoaXN0b3J5IjpbMTE0NTM0NDEwOCw5MDA2NTAzNDQsMTEyMz
 gxNzg4MCwxODI5NDUxMjIxLC0xNzI3NjkxNjEyLC0xMDgxMjM2
 OTI4XX0=
 -->
