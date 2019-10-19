@@ -19,7 +19,7 @@ https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvAL
 The plans are executed, but differ in the mobile layout because of practical issues. While designing the initial idea,the result turned out not to be responsive enough.
 Instead, the information was "absorbed" in the grid to be responsively displayed in one row.
 
-<![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)>
+![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)
 
 The following colorscheme was used throughout the site:
 <![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/colorschema.png)>
@@ -86,5 +86,5 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NDAxOTU0XX0=
+eyJoaXN0b3J5IjpbLTEwODEyMzY5MjhdfQ==
 -->
