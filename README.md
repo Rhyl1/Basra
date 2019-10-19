@@ -15,15 +15,14 @@ https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvAL
 There has been an attempt to execute the exact wireframe layout plans,
 but the result differs for practical reasons.
 Instead, the information for the mobile view was "absorbed" in the grid to be responsively displayed in rows and columns.
-
 ![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)
 
-The following color scheme was used throughout the site:
+- The following color scheme was used throughout the site:
 ![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/colorschema.png)
 
-The following font-families were used throughout the website: 'Montserrat', sans-serif; & 'Big Shoulders Text', cursive;
+- The following font-families were used throughout the website: 'Montserrat', sans-serif; & 'Big Shoulders Text', cursive;
 
-Link to live site: ....
+- Link to live site: ....
 
 ### users
 The users of the website include consumers, looking for a local coffeeshop. It is expected that these consumer will find
@@ -83,7 +82,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA1NjA3MTksOTAwNjUwMzQ0LDExMj
-M4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMTA4MTIz
-NjkyOF19
+eyJoaXN0b3J5IjpbMTE0MzkzMTk4MCw5MDA2NTAzNDQsMTEyMz
+gxNzg4MCwxODI5NDUxMjIxLC0xNzI3NjkxNjEyLC0xMDgxMjM2
+OTI4XX0=
 -->
