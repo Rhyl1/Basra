@@ -1,16 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text:300,400,700|Montserrat:300,400,700&display=swap');
 
-/* html,body { height: 100vh;  margin: 0; } */
-
-/* body {
-  display: table;
-  width: 100vw;
-} */
-/* ---------------------------------------------------Colours */
-/* ---------------------------------------------------Special paddings/margins/text */
-h1,h2,h3,h4 {
-    margin: 0;
-}
+/* ---------------------------------------------------Main styling */
 .uppercase {
     text-transform: uppercase;
 }
@@ -19,11 +9,7 @@ h1,h2,h3,h4 {
     font-weight: 700;
     letter-spacing: 0.3rem;
 }
-/* ---------------------------------------------------Header */
- header {
-    margin: 0;
-}
-
+/* Code snippet below = from https://css-tricks.com/perfect-full-page-background-image/ */
 .achtergrond-container {
     height: 100vh;
     background: url("../img/bg_lint.jpg") no-repeat top left fixed;
@@ -36,7 +22,6 @@ h1,h2,h3,h4 {
 .jumbotron {
     background-color: transparent;
 }
-
 @media (min-width: 992px) {
     .jumbotron {
         margin-bottom: 0;
@@ -44,7 +29,6 @@ h1,h2,h3,h4 {
     padding-top: 20px;
     }
 }
-
 .jumbotron-header {
     color: #FEFBF1;
     font-weight: bold;
@@ -72,7 +56,6 @@ h1,h2,h3,h4 {
     z-index: 1;
 }
 
-
 .navbar .navbar-toggler {
     border: 0;
 }
@@ -81,18 +64,11 @@ h1,h2,h3,h4 {
     font-weight: bold;
     z-index: 1;
 }
-
-.navbar-dark .navbar-brand {
-    color: #FEFBF1
-}
-
 .navbar .navbar-nav a {
     font-weight: bold;
 }
 
 /* ---------------------------------------------------Openingstijden en Route*/
-.lijst-openingstijden {""}
-.adres{}
 
 .openingstijden {
     font-family: 'Montserrat', sans-serif;
@@ -184,7 +160,6 @@ h1,h2,h3,h4 {
     margin: 0;
     padding: 0;
 }
-
 /* ---------------------------------------------------Afbeeldingen */
 @media (min-width: 992px) {
 .afbeeldingen {
@@ -205,7 +180,7 @@ h1,h2,h3,h4 {
         color: white;
         background-color: #573E51;
 }
-/* ---------------------------------------------------Knoppen */
+/* ---------------------------------------------------buttons */
 .btn--blauw {
     color: #FEFBF1;
     background-color: #298BAA;
@@ -229,12 +204,7 @@ h1,h2,h3,h4 {
     color: #FEFBF1;}
 /* ---------------------------------------------------Footer */
 .fixed-bottom {
-
-position: fixed;
-    right: 0;
-    bottom: 10px;
-    left: 0;
-    z-index: 3;
+    position: fixed;
 }
 
 .footer-links {
@@ -246,11 +216,6 @@ position: fixed;
     color: #FEFBF1;
     font-family: 'Montserrat', sans-serif;
 }
-#footer-details details{
-    font-weight: 300;
-    font-size: 0.6em;
-}
-
 .social-links li a i {
     width: 32px;
     height: 32px;
@@ -277,21 +242,22 @@ position: fixed;
 /* ----------------------------------------Vacatures------------------- */
 
 .opvulling {
-        background-color: rgba(242,203,155,1);
-}
+    background-color: rgba(0,0,0,0.5);
+    }
+
+/* Code snippet below = from https://css-tricks.com/perfect-full-page-background-image/ */
 .achtergrond-container-vacatures {
     height: 100vh;
     background: url("../img/cannabis-rondje.png") no-repeat top left fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .card-text {
     font-family: 'Montserrat', sans-serif;
-    color: #FEFBF1;
-    background-color: rgba(0,0,0,0.5);}
+    color: #FEFBF1;}
 
 .card {
      background-color: transparent;
@@ -306,7 +272,7 @@ position: fixed;
 
 @media (min-width: 768px) {
 .vacatures-text {
-    margin-top: 250px;
+    margin-top: 0;
     font-size: 1rem;
 }
 }
@@ -314,13 +280,8 @@ position: fixed;
 @media (min-width: 992px) {
 .vacatures-text {
     margin-top: 0;
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
-}
-.vacatures-text ul {
-    list-style:;
-    margin: 0;
-    padding: 0;
 }
 
 .heading-vacatures {
@@ -328,6 +289,12 @@ position: fixed;
     font-weight: 400;
     text-align: center;
     padding-top: 10px;
+}
+
+@media (min-width: 992px) {
+.balie-afbeelding {
+    max-inline-size: 40%;
+}
 }
 
 .vacatures-formulier {
