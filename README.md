@@ -22,7 +22,7 @@ Instead, the information for the mobile view was "absorbed" in the grid to be re
 
 - The following font-families were used throughout the website: 'Montserrat', sans-serif; & 'Big Shoulders Text', cursive;
 
-- Link to live site: ....
+- Link to live site: [https://rhyl1.github.io/Basra-Coffeeshop/](https://rhyl1.github.io/Basra-Coffeeshop/)
 
 ### Users
 The users of the website include (international) consumers, looking for a local coffee shop. It is expected that these consumers will find
@@ -90,7 +90,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzYwNTIwOSw3OTk5MDgzNDQsLTIwMD
+eyJoaXN0b3J5IjpbMjA2MjY4OTAxMCw3OTk5MDgzNDQsLTIwMD
 I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
 LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
 A4MTIzNjkyOF19
