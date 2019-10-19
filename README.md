@@ -32,15 +32,18 @@ the information provided will be general: this is also what the consumer expects
 ## Features
 ### Existing Features
 - Navigation bar.
--- The navigation bar has a indication to the page visitied in the site (the active page is displayed in a white font color) and is translated for diffrent language users. 
-- Route button - allows users to plot a route via Google maps.
-- Social links in footer - provide additional contact details if needed.
-- Home page
-These pages display general info about location, opening times and contact info. On larger screens,
-it also displays a jumbotron with a message, emphasising a record of 30 years existence.
-
-- Huisregels page
-This section is ended to sum up the houseruls, as they apply for visitors of the coffeeshop.
+-- The navigation bar indicates the active page (the active page is displayed in a white font color) and is translated for different language users. 
+--The title in the left corner of the navigation bar also functions as a link to the default home page.
+- Route button 
+-- The route button in the address section allows users to plot a route via Google maps.
+-Picture slider
+--There are slides show of the interior
+- Social links in the footer 
+-- These links provide additional contact details if needed
+- Houserules page
+-- These pages display the house rules as they are stated on the physical location of the coffee shop. These pages are also accessible in English and french. 
+-Vacancy page
+--This page provides a section where interested employees can apply for a function as a bartender.
 
 ### Features Left to Implement
 - A feature idea is a (Voorlichting / Information) section. This section will show information
@@ -83,7 +86,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNj
-UwMzQ0LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYx
-MiwtMTA4MTIzNjkyOF19
+eyJoaXN0b3J5IjpbLTIwMDI5MzM1MTIsMTI2MTM4NzQ2OCw5Nj
+EyMjE3MDAsOTAwNjUwMzQ0LDExMjM4MTc4ODAsMTgyOTQ1MTIy
+MSwtMTcyNzY5MTYxMiwtMTA4MTIzNjkyOF19
 -->
