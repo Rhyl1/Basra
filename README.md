@@ -12,8 +12,9 @@ Balsamiq was used for the initial wireframe setup.
 Link to wireframes:
 https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvALJEgBaZA0lANoC6AvkA%3D
 
-The plans are executed, but differ in the mobile layout because of practical issues. While designing the initial idea,the result turned out not to be responsive enough.
-Instead, the information was "absorbed" in the grid to be responsively displayed in one row.
+There has been an attempt to execute the exact wireframe layout plans,
+but the result differs for practical reasons.
+Instead, the information for the mobile view was "absorbed" in the grid to be responsively displayed in rows and columns.
 
 ![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)
 
@@ -82,6 +83,6 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzgxNzg4MCwxODI5NDUxMjIxLC0xNz
-I3NjkxNjEyLC0xMDgxMjM2OTI4XX0=
+eyJoaXN0b3J5IjpbOTAwNjUwMzQ0LDExMjM4MTc4ODAsMTgyOT
+Q1MTIyMSwtMTcyNzY5MTYxMiwtMTA4MTIzNjkyOF19
 -->
