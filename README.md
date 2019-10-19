@@ -65,11 +65,13 @@ This project uses:
 -Links to Hover.css CDN - for cool hover effects and transitions (not yet implemented)
 -Links to Google maps - for location details.
 - Github - repository hosted on Github
+-Gotpod: was used as cloud IDE solutio
 -Git Pages - Website is hosted on Github pages
 -Am I responsive - was used for testing responsiveness of the website
 -Stadedit.io - was used to compose readme.md file
 
 ## Testing
+-While construction the website the initial responsiveness was tested within 
 
 ## Deployment
 
@@ -86,8 +88,8 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDcxNzU1OSw3OTk5MDgzNDQsLTIwMD
-I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
-LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
-A4MTIzNjkyOF19
+eyJoaXN0b3J5IjpbLTIwMTkzNDM5NTMsNzk5OTA4MzQ0LC0yMD
+AyOTMzNTEyLDEyNjEzODc0NjgsOTYxMjIxNzAwLDkwMDY1MDM0
+NCwxMTIzODE3ODgwLDE4Mjk0NTEyMjEsLTE3Mjc2OTE2MTIsLT
+EwODEyMzY5MjhdfQ==
 -->
