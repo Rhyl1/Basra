@@ -19,7 +19,9 @@ https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvAL
 The plans are executed, but differ in the mobile layout because of practical issues. While designing the initial idea,the result turned out not to be responsive enough.
 Instead, the information was "absorbed" in the grid to be responsively displayed in one row.
 
-<![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)>
+<![alt](https://github.com/Rhyl1/Basra/blob/master/assets/img/responsive_index.png)>
+
+<![alt](https://github.com/Rhyl1/Basra/blob/master/assets/img/responsive_houserules.png)>
 
 The following colorscheme was used throughout the site:
 <![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/colorschema.png)>
