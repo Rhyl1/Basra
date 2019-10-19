@@ -47,10 +47,9 @@ the information provided will be general: this is also what the consumer expects
 
 ### Features Left to Implement
 - A feature idea is a (Voorlichting / Information) section. This section will show information
-about how to resonsibly use the products sold at the coffeeshop.
+about how to responsibly use the products sold at the coffee shop.
 
-- Another fiture idea: I would also like to add a (vacature/vacancy) section, where people can apply for jobs or the owner
-can post a vacancy when needed.
+- Another feature idea is to expand the vacature (vacancy) page with an area the owner of the business can use to post vacancies when needed.
 
 ## Technologies Used
 
@@ -86,7 +85,8 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI5MzM1MTIsMTI2MTM4NzQ2OCw5Nj
-EyMjE3MDAsOTAwNjUwMzQ0LDExMjM4MTc4ODAsMTgyOTQ1MTIy
-MSwtMTcyNzY5MTYxMiwtMTA4MTIzNjkyOF19
+eyJoaXN0b3J5IjpbLTE2NTcxMTIyODQsLTIwMDI5MzM1MTIsMT
+I2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0LDExMjM4MTc4
+ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMTA4MTIzNjkyOF
+19
 -->
