@@ -83,15 +83,15 @@ This project uses:
 - The text for the page "Huisregels/House rules" was copied from the bord at the physical location of Basra Coffeeshop. The text was translated using www.DeepL.com/Translator
 ### Media
 - The photos used in this site were obtained from pixabay.com and are free of copyright. 
-Tand sliderphoto's where
-provided by a customer (o.o.hooi)
+The slider photo's, used on the index page where
+provided by a customer (o.o.hooi).
 
 ### Acknowledgements
-- I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
-- Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
+- I received inspiration for this project from the Code Institute "Whiskey drop tutorial" and by browsing for the websites of other local coffeeshops.
+- Thank you Seun Owonikoko, Xavier_CI and fellow students for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTg1NDU5OSw3OTk5MDgzNDQsLTIwMD
-I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
-LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
-A4MTIzNjkyOF19
+eyJoaXN0b3J5IjpbNzMwMjY2NzExLDc5OTkwODM0NCwtMjAwMj
+kzMzUxMiwxMjYxMzg3NDY4LDk2MTIyMTcwMCw5MDA2NTAzNDQs
+MTEyMzgxNzg4MCwxODI5NDUxMjIxLC0xNzI3NjkxNjEyLC0xMD
+gxMjM2OTI4XX0=
 -->
