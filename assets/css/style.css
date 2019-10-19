@@ -288,15 +288,13 @@ position: fixed;
   background-size: cover;
 }
 
-.vacatures-text {
+.card-text {
     font-family: 'Montserrat', sans-serif;
     color: #FEFBF1;
-    background-color: rgba(0,0,0,0.50);
-    margin-top: 50px;
-    margin-bottom: 75px;
-    padding-top: 3px;
-    padding-bottom: 75px;
-    font-size: 0.7rem;
+    background-color: rgba(0,0,0,0.5);}
+
+.card {
+     background-color: transparent;
 }
 
 @media (min-width: 375px) {
