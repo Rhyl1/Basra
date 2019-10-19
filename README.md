@@ -68,10 +68,10 @@ This project uses:
 -Gotpod: was used as cloud IDE solution
 - Git Pages - Website is hosted on Github pages
 - Am I responsive - was used for testing responsiveness of the website
-- Stadedit.io - was used to compose readme.md file
+- Stackedit.io - was used to compose readme.md file
 
 ## Testing
--While construction the website the initial responsiveness was tested within 
+-While construction the website the initial responsiveness was tested within the Gitpod IDE, that links to the Google Chrome browser, where developement tools were used.
 
 ## Deployment
 
@@ -88,8 +88,8 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg0NTgyNDksNzk5OTA4MzQ0LC0yMD
-AyOTMzNTEyLDEyNjEzODc0NjgsOTYxMjIxNzAwLDkwMDY1MDM0
-NCwxMTIzODE3ODgwLDE4Mjk0NTEyMjEsLTE3Mjc2OTE2MTIsLT
-EwODEyMzY5MjhdfQ==
+eyJoaXN0b3J5IjpbLTQzMjkxMzE2MCw3OTk5MDgzNDQsLTIwMD
+I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
+LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
+A4MTIzNjkyOF19
 -->
