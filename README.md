@@ -8,7 +8,7 @@ The business currently has an outdated website, so it needs a new one.
 Because of the legal restrictions regarding the promotion of cannabis products, the primary goal of the website will be providing the customer location and opening data at a first glance.
 
 ## UX
-Balsamiq was used for the initial wireframe setup.
+- Balsamiq was used for the initial wireframe setup.
 Link to wireframes:
 https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvALJEgBaZA0lANoC6AvkA%3D
 
@@ -83,7 +83,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzQ3MDExMCw5MDA2NTAzNDQsMTEyMz
-gxNzg4MCwxODI5NDUxMjIxLC0xNzI3NjkxNjEyLC0xMDgxMjM2
-OTI4XX0=
+eyJoaXN0b3J5IjpbLTE5NTA1NjA3MTksOTAwNjUwMzQ0LDExMj
+M4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMTA4MTIz
+NjkyOF19
 -->
