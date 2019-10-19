@@ -53,20 +53,21 @@ about how to responsibly use the products sold at the coffee shop.
 
 ## Technologies Used
 
+
 This project uses:
 - HTML - for structure
 - CSS - for styling
-- Google Chrome - for browser use and the use of developement tools
-Google - was used for research
-links to Bootstrap CDN - for the grid and JavaScript functions
-Links to the FontAwesome CDN- for icons
-Links to Google Fonts - for custom fonts
-Links to Hover.css CDN - foor cool hover effects and transitions
-Links to Google maps for location details.
-Github - repository hosted on Github
-Git Pages - Website is hosted on Github pages
-Am I responsive - was used for testing responsiveness of the website
-
+- Google Chrome - for browser use and the use of development tools
+- The Google search engine - was used for research
+-Links to Bootstrap CDN - for the Bootstrap and JavaScript functions
+-Links to the FontAwesome CDN- for icons
+-Links to Google Fonts - for custom fonts
+-Links to Hover.css CDN - for cool hover effects and transitions (not yet implemented)
+-Links to Google maps - for location details.
+- Github - repository hosted on Github
+-Git Pages - Website is hosted on Github pages
+-Am I responsive - was used for testing responsiveness of the website
+-Stadedit.io - was used to compose readme.md file
 
 ## Testing
 
@@ -85,8 +86,8 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5OTA4MzQ0LC0yMDAyOTMzNTEyLDEyNj
-EzODc0NjgsOTYxMjIxNzAwLDkwMDY1MDM0NCwxMTIzODE3ODgw
-LDE4Mjk0NTEyMjEsLTE3Mjc2OTE2MTIsLTEwODEyMzY5MjhdfQ
-==
+eyJoaXN0b3J5IjpbMTg3MDcxNzU1OSw3OTk5MDgzNDQsLTIwMD
+I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
+LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
+A4MTIzNjkyOF19
 -->
