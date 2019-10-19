@@ -64,7 +64,7 @@ This project uses:
 - Links to Google Fonts - for custom fonts
 - Links to Hover.css CDN - for cool hover effects and transitions (not yet implemented)
 - Links to Google maps - for location details.
-- Github - repository hosted on Github
+- GitHub - repository hosted on Github
 -Gotpod: was used as cloud IDE solution
 - Git Pages - Website is hosted on Github pages
 - Am I responsive - was used for testing responsiveness of the website
@@ -75,8 +75,7 @@ This project uses:
 - After this, Am I responsive was used to test responsiveness.
 
 ## Deployment
-- The pages where deployed by activating the e
-
+- The pages where deployed by activating the GitHub pages on GitHub. This process makes the website accessible for user viathe internet.
 ## Credits
 
 ### Content
@@ -90,7 +89,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjY4OTAxMCw3OTk5MDgzNDQsLTIwMD
+eyJoaXN0b3J5IjpbMTM1NjgyNTY2OCw3OTk5MDgzNDQsLTIwMD
 I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
 LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
 A4MTIzNjkyOF19
