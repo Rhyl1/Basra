@@ -1,4 +1,4 @@
-# Basra Coffeeshop page
+# The Basra Coffeeshop page
 
 Basra is a lively coffeeshop, located centrally in the city of The Hague, The Netherlands.
 For 30 years, it has provided quality products for its customers.
@@ -86,6 +86,6 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc2OTE2MTIsLTEwODEyMzY5MjhdfQ
-==
+eyJoaXN0b3J5IjpbMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
+A4MTIzNjkyOF19
 -->
