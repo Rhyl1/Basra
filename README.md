@@ -85,3 +85,6 @@ provided by a customer (o.o.hooi)
 ### Acknowledgements
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzE4NDAxOTU0XX0=
+-->
