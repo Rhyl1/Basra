@@ -58,17 +58,17 @@ This project uses:
 - HTML - for structure
 - CSS - for styling
 - Google Chrome - for browser use and the use of development tools
-- The Google search engine - was used for research
--Links to Bootstrap CDN - for the Bootstrap and JavaScript functions
--Links to the FontAwesome CDN- for icons
--Links to Google Fonts - for custom fonts
--Links to Hover.css CDN - for cool hover effects and transitions (not yet implemented)
--Links to Google maps - for location details.
+- The Google search engine - was used for research.
+- Links to Bootstrap CDN - for the Bootstrap and JavaScript functions
+- Links to the FontAwesome CDN- for icons
+- Links to Google Fonts - for custom fonts
+- Links to Hover.css CDN - for cool hover effects and transitions (not yet implemented)
+- Links to Google maps - for location details.
 - Github - repository hosted on Github
--Gotpod: was used as cloud IDE solutio
--Git Pages - Website is hosted on Github pages
--Am I responsive - was used for testing responsiveness of the website
--Stadedit.io - was used to compose readme.md file
+-Gotpod: was used as cloud IDE solution
+- Git Pages - Website is hosted on Github pages
+- Am I responsive - was used for testing responsiveness of the website
+- Stadedit.io - was used to compose readme.md file
 
 ## Testing
 -While construction the website the initial responsiveness was tested within 
@@ -88,7 +88,7 @@ provided by a customer (o.o.hooi)
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkzNDM5NTMsNzk5OTA4MzQ0LC0yMD
+eyJoaXN0b3J5IjpbLTE4Mzg0NTgyNDksNzk5OTA4MzQ0LC0yMD
 AyOTMzNTEyLDEyNjEzODc0NjgsOTYxMjIxNzAwLDkwMDY1MDM0
 NCwxMTIzODE3ODgwLDE4Mjk0NTEyMjEsLTE3Mjc2OTE2MTIsLT
 EwODEyMzY5MjhdfQ==
