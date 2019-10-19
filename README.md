@@ -75,21 +75,22 @@ This project uses:
 - After this, Am I responsive was used to test responsiveness.
 
 ## Deployment
-- The pages where deployed by activating the GitHub pages on GitHub. This process makes the website accessible for user viathe internet.
+- The pages where deployed by activating the GitHub pages on GitHub. This process makes the website accessible for user via the internet. To make this possible all the page and image file links needed to be adjusted, so they would display the intended content.
+- 
 ## Credits
 
 ### Content
-- The text for the page "Huisregels/House rules" was copied from the bord at the physical location of Basra Coffeeshop.
-The text was translated using www.DeepL.com/Translator
+- The text for the page "Huisregels/House rules" was copied from the bord at the physical location of Basra Coffeeshop. The text was translated using www.DeepL.com/Translator
 ### Media
-- The photos used in this site were obtained from pixabay.com and sliderphoto's where
+- The photos used in this site were obtained from pixabay.com and are free of copyright. 
+Tand sliderphoto's where
 provided by a customer (o.o.hooi)
 
 ### Acknowledgements
 - I received inspiration for this project from the Whiskey drop tutorial and by browsing for the website of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier CI and fellow studens for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjgyNTY2OCw3OTk5MDgzNDQsLTIwMD
+eyJoaXN0b3J5IjpbMTc2NTg1NDU5OSw3OTk5MDgzNDQsLTIwMD
 I5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0
 LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMT
 A4MTIzNjkyOF19
