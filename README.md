@@ -15,16 +15,10 @@ https://balsamiq.cloud/s6hidiy/pwawtic/r2278?f=N4IgUiBcCMA0IDkoAZ4GEXwDJTiAQrvAL
 There has been an attempt to execute the exact wireframe layout plans,
 but the result differs for practical reasons.
 Instead, the information for the mobile view was "absorbed" in the grid to be responsively displayed in rows and columns.
-![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/responsiveness.png)
 
-<<<<<<< HEAD
 <![alt](https://github.com/Rhyl1/Basra/blob/master/assets/img/responsive_index.png)>
 
 <![alt](https://github.com/Rhyl1/Basra/blob/master/assets/img/responsive_houserules.png)>
-=======
-- The following color scheme was used throughout the site:
-![alt](https://github.com/Rhyl1/Basra/blob/f3d299409bf2d63aa4456023814c5179b9fa1436/assets/img/colorschema.png)
->>>>>>> cb868449c016a0c3783cde863590999f25bd8dc5
 
 - The following font-families were used throughout the website: 'Montserrat', sans-serif; & 'Big Shoulders Text', cursive;
 
