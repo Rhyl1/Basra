@@ -20,6 +20,9 @@ Instead, the information for the mobile view was "absorbed" in the grid to be re
 
 <![alt](https://github.com/Rhyl1/Basra/blob/master/assets/img/responsive_houserules.png)>
 
+- The follwing color scheme was used throughout the website:
+<![alt](https://github.com/Rhyl1/Basra/blob/2ed53ecf0eb2659c70d589d5928bf5cae9d48a98/assets/img/colorschema.png)>
+
 - The following font-families were used throughout the website: 'Montserrat', sans-serif; & 'Big Shoulders Text', cursive;
 
 - Link to live site: [https://rhyl1.github.io/Basra-Coffeeshop/](https://rhyl1.github.io/Basra-Coffeeshop/)
@@ -32,16 +35,16 @@ the information provided will be general: this is also what the consumer expects
 ## Features
 ### Existing Features
 - Navigation bar.
--- The navigation bar indicates the active page (the active page is displayed in a white font color) and is translated for different language users. 
+-- The navigation bar indicates the active page (the active page is displayed in a white font color) and is translated for different language users.
 --The title in the left corner of the navigation bar also functions as a link to the default home page.
-- Route button 
+- Route button
 -- The route button in the address section allows users to plot a route via Google maps.
 -Picture slider
 --There are slides show of the interior
-- Social links in the footer 
+- Social links in the footer
 -- These links provide additional contact details if needed
 - House rules page
--- These pages display the house rules as they are stated on the physical location of the coffee shop. These pages are also accessible in English and french. 
+-- These pages display the house rules as they are stated on the physical location of the coffee shop. These pages are also accessible in English and french.
 -Vacancy page
 --This page provides a section where interested employees can apply for a function as a bartender.
 
@@ -82,7 +85,7 @@ This project uses:
 ### Content
 - The text for the page "Huisregels/House rules" was copied from the bord at the physical location of Basra Coffeeshop. The text was translated using www.DeepL.com/Translator
 ### Media
-- The photos used in this site were obtained from pixabay.com and are free of copyright. 
+- The photos used in this site were obtained from pixabay.com and are free of copyright.
 The slider photo's, used on the index page where
 provided by a customer (o.o.hooi).
 
