@@ -40,7 +40,7 @@ the information provided will be general: this is also what the consumer expects
 --There are slides show of the interior
 - Social links in the footer 
 -- These links provide additional contact details if needed
-- Houserules page
+- House rules page
 -- These pages display the house rules as they are stated on the physical location of the coffee shop. These pages are also accessible in English and french. 
 -Vacancy page
 --This page provides a section where interested employees can apply for a function as a bartender.
@@ -76,7 +76,7 @@ This project uses:
 
 ## Deployment
 - The pages where deployed by activating the GitHub pages on GitHub. This process makes the website accessible for user via the internet. To make this possible all the page and image file links needed to be adjusted, so they would display the intended content.
-- 
+
 ## Credits
 
 ### Content
@@ -90,8 +90,8 @@ provided by a customer (o.o.hooi).
 - I received inspiration for this project from the Code Institute "Whiskey drop tutorial" and by browsing for the websites of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier_CI and fellow students for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMjY2NzExLDc5OTkwODM0NCwtMjAwMj
-kzMzUxMiwxMjYxMzg3NDY4LDk2MTIyMTcwMCw5MDA2NTAzNDQs
-MTEyMzgxNzg4MCwxODI5NDUxMjIxLC0xNzI3NjkxNjEyLC0xMD
-gxMjM2OTI4XX0=
+eyJoaXN0b3J5IjpbNjIyMTE5NTc2LDczMDI2NjcxMSw3OTk5MD
+gzNDQsLTIwMDI5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAs
+OTAwNjUwMzQ0LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNz
+Y5MTYxMiwtMTA4MTIzNjkyOF19
 -->
