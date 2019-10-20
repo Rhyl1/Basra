@@ -195,7 +195,7 @@
     color: #FEFBF1;}
 /* ---------------------------------------------------Footer */
 footer {
-    background-color: #573E51
+    background-color: transparent;
 }
 .fixed-bottom {
     position: fixed;
