@@ -194,6 +194,9 @@
 .btn:hover {
     color: #FEFBF1;}
 /* ---------------------------------------------------Footer */
+footer {
+    background-color: #573E51
+}
 .fixed-bottom {
     position: fixed;
 }
@@ -231,19 +234,9 @@
 }
 
 /* ----------------------------------------Vacatures------------------- */
-
-.opvulling {
-    background-color: rgba(0,0,0,0.5);
-    }
-
-/* Code snippet below = from https://css-tricks.com/perfect-full-page-background-image/ */
 .achtergrond-container-vacatures {
-    height: 100vh;
-    background: url("../img/cannabis-rondje.png") no-repeat top left fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    height: auto;
+    background-color: #573E51;
 }
 
 .card-text {
@@ -286,7 +279,26 @@
         max-inline-size: 40%;
     }
 }
-
-.vacatures-formulier {
-
+/* -----------Styling form container in vacatures page */
+.container-formulier {
+    width: 90%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media (min-width: 992px){
+    .container-formulier {
+        max-width: 80%;
+    }
+}
+@media (min-width: 768px){
+    .container-formulier {
+        max-width: 60%;
+    }
+}
+@media (min-width: 576px){
+    .container-formulier {
+        max-width: 60%;
+}
 }
