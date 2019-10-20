@@ -99,8 +99,6 @@ provided by a customer (o.o.hooi).
 - I received inspiration for this project from the Code Institute "Whiskey drop tutorial" and by browsing for the websites of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier_CI and fellow students for giving me direction and feedback.
 
-> Blockquote
-
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1MTExNDM2MzksNzMwMjY2NzExLDc5OT
 kwODM0NCwtMjAwMjkzMzUxMiwxMjYxMzg3NDY4LDk2MTIyMTcw
