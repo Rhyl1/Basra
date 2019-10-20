@@ -72,10 +72,16 @@ This project uses:
 - Git Pages - Website is hosted on Github pages
 - Am I responsive - was used for testing responsiveness of the website
 - Stackedit.io - was used to compose readme.md file
+- https://validator.w3.org - was used to validate the css and html code used
 
 ## Testing
 - While constructing the website, the initial responsiveness was tested within the Gitpod IDE, which links to the Google Chrome browser, where development tools were used.
 - After this, Am I responsive was used to test responsiveness.
+- Also the html and css code was validated using; https://validator.w3.org.
+The outcome of this was resolved, exept for 1 error, that remains in the code,
+since it has the desired effect and I was not able to find a solution for it.
+The error that remains in the index.html files is as follows, and will be resolved in a next release:
+> The element button must not appear as a descendant of the a element. From line 68, column 14; to line 68, column 67
 
 ## Deployment
 - The pages where deployed by activating the GitHub pages on GitHub. This process makes the website accessible for user via the internet. To make this possible all the page and image file links needed to be adjusted, so they would display the intended content.
