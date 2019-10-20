@@ -45,7 +45,7 @@ the information provided will be general: this is also what the consumer expects
 -- These links provide additional contact details if needed
 - House rules page
 -- These pages display the house rules as they are stated on the physical location of the coffee shop. These pages are also accessible in English and french.
--Vacancy page
+- Vacancy page
 --This page provides a section where interested employees can apply for a function as a bartender.
 
 ### Features Left to Implement

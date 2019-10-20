@@ -13,20 +13,19 @@
 .achtergrond-container {
     height: 100vh;
     background: url("../img/bg_lint.jpg") no-repeat top left fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
-
 .jumbotron {
     background-color: transparent;
 }
 @media (min-width: 992px) {
     .jumbotron {
         margin-bottom: 0;
-    padding-bottom: 0;
-    padding-top: 20px;
+        padding-bottom: 0;
+        padding-top: 20px;
     }
 }
 .jumbotron-header {
@@ -44,9 +43,7 @@
     font-size: 0.6em;
     background-color: rgba(0,0,0,0.25);
 }
-
 /* ---------------------------------------------------Navbar */
-
 .navbar {
     margin-bottom: 0;
     border: 0;
@@ -55,11 +52,9 @@
     font-family: 'Big Shoulders Text', cursive;
     z-index: 1;
 }
-
 .navbar .navbar-toggler {
     border: 0;
 }
-
 .navbar-brand {
     font-weight: bold;
     z-index: 1;
@@ -67,19 +62,17 @@
 .navbar .navbar-nav a {
     font-weight: bold;
 }
-
 /* ---------------------------------------------------Openingstijden en Route*/
-
 .openingstijden {
     font-family: 'Montserrat', sans-serif;
     color: #FEFBF1;
     background-color: rgba(0,0,0,0.25);
 }
 @media (min-width: 992px) {
-.openingstijden {
-    padding-top: 0;
-     padding-bottom: 0;
-}
+    .openingstijden {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
 }
 
 .openingstijden p,h4 {
@@ -98,21 +91,20 @@
     padding-bottom: 30px;
 }
 @media (min-width: 375px) {
-.route {
-    padding-top: 110px;
-}
+    .route {
+        padding-top: 110px;
+    }
 }
 @media (min-width: 768px) {
-.route {
-    padding-top: 0;
-}
+    .route {
+        padding-top: 0;
+    }
 }
 @media (min-width: 992px) {
-.route {
-    padding-top: 0px;
+    .route {
+        padding-top: 0px;
+    }
 }
-}
-
 . route i {
     margin-bottom: 20px;
     font-size: 45px;
@@ -136,24 +128,24 @@
 }
 
 @media (min-width: 375px) {
-.huisregels-text {
-    margin-top: 90px;
-    font-size: 0.8rem;
-}
+    .huisregels-text {
+        margin-top: 90px;
+        font-size: 0.8rem;
+    }
 }
 
 @media (min-width: 768px) {
-.huisregels-text {
-    margin-top: 250px;
-    font-size: 1rem;
-}
+    .huisregels-text {
+        margin-top: 250px;
+        font-size: 1rem;
+    }
 }
 
 @media (min-width: 992px) {
-.huisregels-text {
-    margin-top: 150px;
-    font-size: 1.3rem;
-}
+    .huisregels-text {
+        margin-top: 150px;
+        font-size: 1.3rem;
+    }
 }
 .huisregels-text ul {
     list-style: none;
@@ -162,9 +154,9 @@
 }
 /* ---------------------------------------------------Afbeeldingen */
 @media (min-width: 992px) {
-.afbeeldingen {
-    max-height: 250px;
-}
+    .afbeeldingen {
+        max-height: 250px;
+    }
 }
 /* ---------------------------------------------------block-deviders */
 .block-devider {
@@ -173,7 +165,6 @@
         color: white;
         background-color: #298BAA;
 }
-
 .block-devider-aubergine {
         width: 75px;
         height: 5px;
@@ -227,9 +218,9 @@
     color: #fafafa;
     background: #573E51;
     transition: all 0.35s ease-in-out;
--moz-transition: all 0.35s ease-in-out;
--webkit-transition: all 0.35s ease-in-out;
--o-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 .social-links li a i:hover {
     background: #F2CB9B;
@@ -264,26 +255,25 @@
 }
 
 @media (min-width: 375px) {
-.vacatures-text {
-    margin-top: 90px;
-    font-size: 0.8rem;
-}
+    .vacatures-text {
+        margin-top: 90px;
+        font-size: 0.8rem;
+    }
 }
 
 @media (min-width: 768px) {
-.vacatures-text {
-    margin-top: 0;
-    font-size: 1rem;
-}
+    .vacatures-text {
+        margin-top: 0;
+        font-size: 1rem;
+    }
 }
 
 @media (min-width: 992px) {
-.vacatures-text {
-    margin-top: 0;
-    font-size: 1rem;
+    .vacatures-text {
+        margin-top: 0;
+        font-size: 1rem;
+    }
 }
-}
-
 .heading-vacatures {
     font-family: 'Big Shoulders Text', cursive;
     font-weight: 400;
@@ -292,9 +282,9 @@
 }
 
 @media (min-width: 992px) {
-.balie-afbeelding {
-    max-inline-size: 40%;
-}
+    .balie-afbeelding {
+        max-inline-size: 40%;
+    }
 }
 
 .vacatures-formulier {
