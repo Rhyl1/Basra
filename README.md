@@ -93,8 +93,8 @@ provided by a customer (o.o.hooi).
 - I received inspiration for this project from the Code Institute "Whiskey drop tutorial" and by browsing for the websites of other local coffeeshops.
 - Thank you Seun Owonikoko, Xavier_CI and fellow students for giving me direction and feedback.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMTE5NTc2LDczMDI2NjcxMSw3OTk5MD
-gzNDQsLTIwMDI5MzM1MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAs
-OTAwNjUwMzQ0LDExMjM4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNz
-Y5MTYxMiwtMTA4MTIzNjkyOF19
+eyJoaXN0b3J5IjpbMTg4NzM4Njc2OCw3MzAyNjY3MTEsNzk5OT
+A4MzQ0LC0yMDAyOTMzNTEyLDEyNjEzODc0NjgsOTYxMjIxNzAw
+LDkwMDY1MDM0NCwxMTIzODE3ODgwLDE4Mjk0NTEyMjEsLTE3Mj
+c2OTE2MTIsLTEwODEyMzY5MjhdfQ==
 -->
