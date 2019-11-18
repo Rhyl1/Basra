@@ -16,7 +16,7 @@ There has been an attempt to execute the exact wireframe layout plans,
 but the result differs for practical reasons.
 Instead, the information for the mobile view was "absorbed" in the grid to be responsively displayed in rows and columns.
 
-<![alt](https://github.com/Rhyl1/Basra/blob/master/assets/img/responsive_index.png)>
+<![alt](https://github.com/Rhyl1/projectII_game/blob/9c5a1bbc6dc363d1dcddc3e267ae96170e7c2bfe/img/startscrn.png)>
 
 <![alt](https://github.com/Rhyl1/Basra/blob/master/assets/img/responsive_houserules.png)>
 
@@ -100,8 +100,9 @@ provided by a customer (o.o.hooi).
 - Thank you Seun Owonikoko, Xavier_CI and fellow students for giving me direction and feedback.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk5NDMyMDMsLTE1MTExNDM2MzksNz
-MwMjY2NzExLDc5OTkwODM0NCwtMjAwMjkzMzUxMiwxMjYxMzg3
-NDY4LDk2MTIyMTcwMCw5MDA2NTAzNDQsMTEyMzgxNzg4MCwxOD
-I5NDUxMjIxLC0xNzI3NjkxNjEyLC0xMDgxMjM2OTI4XX0=
+eyJoaXN0b3J5IjpbMjgwOTI0NzczLC0xMjY5OTQzMjAzLC0xNT
+ExMTQzNjM5LDczMDI2NjcxMSw3OTk5MDgzNDQsLTIwMDI5MzM1
+MTIsMTI2MTM4NzQ2OCw5NjEyMjE3MDAsOTAwNjUwMzQ0LDExMj
+M4MTc4ODAsMTgyOTQ1MTIyMSwtMTcyNzY5MTYxMiwtMTA4MTIz
+NjkyOF19
 -->
